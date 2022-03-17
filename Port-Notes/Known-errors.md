@@ -1,4 +1,4 @@
-#Known Errors
+# Known Errors
 
 ## Problem with package
 
@@ -11,7 +11,7 @@ It's quite possible that your app, should be different project references that n
 Delete all bin and obj folders to allow restore 
 
 
- ## ```error MSB4044: The "GetMlaunchArguments" task was not given a value for the required parameter "AppBundlePath"```
+ ### ```error MSB4044: The "GetMlaunchArguments" task was not given a value for the required parameter "AppBundlePath"```
 
 
 ## InitializeComponent has error.
