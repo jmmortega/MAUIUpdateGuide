@@ -7,3 +7,4 @@ If you want to explain the code for any sample, please create a new document ins
 
 - [Weather Twenty one](https://github.com/davidortinau/WeatherTwentyOne) from Daivd Ortinau
 - [Dotnet Podcasts](https://github.com/microsoft/dotnet-podcasts) from Microsoft. A good sample to create a good entire solution using .NET with the new features.
+- [MAUI Workshop](https://github.com/dotnet-presentations/dotnet-maui-workshop) from Microsoft. A cool workshop to understand MAUI
